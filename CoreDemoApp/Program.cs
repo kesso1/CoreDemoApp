@@ -9,6 +9,7 @@ using Microsoft.Extensions.Logging;
 
 namespace CoreDemoApp
 {
+    //
     public class Program
     {
         public static void Main(string[] args)
